@@ -1,0 +1,9 @@
+
+[Scheme]
+Name=Base16-PaperColor Dark
+ColorForeground=#bfbfbf
+ColorBackground=#1c1c1c
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#1c1c1c;#737373;#af87d7;#afd700;#ff5faf;#00afaf;#ffaf00;#999999;#d7af5f;#8c8c8c;#af87d7;#afd700;#ff5faf;#00afaf;#ffaf00;#d0d0d0
+

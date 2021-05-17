@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/stephen/Documents/workspace/git/ansible/inventories/prd/group_vars/fixupstix'
+let g:netrw_dirhist_2='/home/stephen/Documents/workspace/git/ansible/inventories/prd/group_vars'
+let g:netrw_dirhist_1='/home/stephen/Documents/workspace/git/ansible/inventories/prd'
+let g:netrw_dirhist_0='/home/stephen/Documents/workspace/git/ansible/inventories/prd/host_vars'
+let g:netrw_dirhist_9='/home/stephen/Documents/workspace/git/ansible/inventories/prd'
+let g:netrw_dirhist_8='/home/stephen/Documents/workspace/git/ansible/inventories/prd/group_vars'
+let g:netrw_dirhist_7='/home/stephen/Documents/workspace/git/ansible/inventories/prd/group_vars/phishphillets'
+let g:netrw_dirhist_6='/home/stephen/Documents/workspace/git/ansible/inventories/prd/group_vars'
+let g:netrw_dirhist_5='/home/stephen/Documents/workspace/git/ansible/inventories/prd/group_vars/threatintel'
+let g:netrw_dirhist_4='/home/stephen/Documents/workspace/git/ansible/inventories/prd/group_vars'
