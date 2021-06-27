@@ -15,7 +15,7 @@
     ("36746ad57649893434c443567cb3831828df33232a7790d232df6f5908263692" default)))
  '(package-selected-packages
    (quote
-    (highlight-leading-spaces highlight-indent-guides airline-themes powerline-evil base16-theme yaml-mode use-package tabbar smart-mode-line-powerline-theme session puppet-mode pod-mode muttrc-mode mutt-alias markdown-mode jinja2-mode initsplit htmlize highlight-indentation graphviz-dot-mode git-commit ghub folding eproject diminish debian-el csv-mode color-theme-modern browse-kill-ring boxquote bm bar-cursor apache-mode))))
+    (yaml terraform-mode highlight-leading-spaces highlight-indent-guides airline-themes powerline-evil base16-theme yaml-mode use-package tabbar smart-mode-line-powerline-theme session puppet-mode pod-mode muttrc-mode mutt-alias markdown-mode jinja2-mode initsplit htmlize highlight-indentation graphviz-dot-mode git-commit ghub folding eproject diminish debian-el csv-mode color-theme-modern browse-kill-ring boxquote bm bar-cursor apache-mode))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
